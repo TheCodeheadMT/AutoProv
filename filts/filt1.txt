@@ -1,0 +1,8 @@
+/(Users|Documents and Settings)/.+/NTUSER.DAT
+/(Users|Documents and Settings)/.+/Application Data/.+/.+
+/(Users|Documents and Settings)/.+/Application Data/.+/.+/.+
+/(Users|Documents and Settings)/.+/Application Data/.+/.+/.+/.+
+/(Users|Documents and Settings)/.+/Local Settings/.+
+/(Users|Documents and Settings)/.+/Local Settings/.+/.+
+/(Users|Documents and Settings)/.+/Local Settings/.+/.+/.+
+/(Users|Documents and Settings)/.+/Local Settings/.+/.+/.+/.+

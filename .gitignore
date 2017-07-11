@@ -1,0 +1,12 @@
+# Compiled Python #
+###################
+*.pyc
+
+# perl Plugins (want to keep the folder #
+#########################################
+*.pl
+
+# OS and IDE files #
+####################
+.idea
+
