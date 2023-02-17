@@ -176,7 +176,8 @@ for user in nuser_list:
             ['ls', 'image/Documents and Settings/%s/Application Data/Mozilla/Firefox/Profiles/' % user],
             stdout=subprocess.PIPE)
         ffprofs = ffprofs.stdout.read()
-        ffprofs = ffprofs.rstrip()
+        ffprofs = ffprofs.rstrip()######Regripper Stuff######
+
 
         ffprof_list = ffprofs.split('\n')
         for prof in ffprof_list:
